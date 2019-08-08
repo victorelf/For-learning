@@ -4,6 +4,7 @@
 * [《ECMAScript 6 入门》](http://es6.ruanyifeng.com/)
 * [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 * [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.cnblogs.com/cangqinglang/p/8963557.html)
+* [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 ## HTML&CSS
 * [HTML5和CSS3新特性一览](https://www.cnblogs.com/star91/p/5659134.html)
 * [CSS常用布局之各种元素的水平垂直居中](https://www.w3cschool.cn/css_series/css_series-ty3124qb.html)
