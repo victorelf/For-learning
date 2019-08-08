@@ -1,5 +1,6 @@
 # 谨以此记录部分学习有关资料
 ## JavaScript
+* [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.cnblogs.com/cangqinglang/p/8963557.html)
 ## HTML&CSS
 ## React&Webpack&Git等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
@@ -10,3 +11,4 @@
 * [Sublime Text 3 全程详细图文原创教程](https://www.cnblogs.com/wind128/p/4409422.html)
 ## 数据结构与算法
 * [红黑树 之 原理和算法详细介绍](https://www.cnblogs.com/skywang12345/p/3245399.html)
+* [javascript背包问题详解](https://segmentfault.com/a/1190000012829866)
