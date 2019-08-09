@@ -10,6 +10,7 @@
 * [CSS常用布局之各种元素的水平垂直居中](https://www.w3cschool.cn/css_series/css_series-ty3124qb.html)
 ## React&Webpack&Git等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
+* [React学习：状态(State) 和 属性(Props)](https://blog.csdn.net/b954960630/article/details/79822639)
 * [git如何避免”warning: LF will be replaced by CRLF“提示？](https://www.zhihu.com/question/50862500)
 * [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
 * [理解 Git 如何使用autocrlf、safecrlf、eol和.gitattributes处理line-ending](https://xiaozhuanlan.com/topic/4053786912)
@@ -20,4 +21,5 @@
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
 ## 数据结构与算法
 * [红黑树之原理和算法详细介绍](https://www.cnblogs.com/skywang12345/p/3245399.html)
+* [十大经典排序算法总结（JavaScript描述）](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
 * [javascript背包问题详解](https://segmentfault.com/a/1190000012829866)
