@@ -7,6 +7,7 @@
 * [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.cnblogs.com/cangqinglang/p/8963557.html)
 * [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
+* [JavaScript中文网](https://www.javascriptcn.com/)
 ## HTML&CSS
 * [HTML5和CSS3新特性一览](https://www.cnblogs.com/star91/p/5659134.html)
 * [CSS常用布局之各种元素的水平垂直居中](https://www.w3cschool.cn/css_series/css_series-ty3124qb.html)
