@@ -3,7 +3,9 @@
 * [JavaScript 教程](https://wangdoc.com/javascript/)
 * [《ECMAScript 6 入门》](http://es6.ruanyifeng.com/)
 * [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
+* [深度解析bind原理、使用场景及模拟实现](https://juejin.im/post/5c09e6f9e51d456c4c49f4c6)
 * [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.cnblogs.com/cangqinglang/p/8963557.html)
+* [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 ## HTML&CSS
 * [HTML5和CSS3新特性一览](https://www.cnblogs.com/star91/p/5659134.html)
@@ -19,6 +21,7 @@
 * [README文件语法解读](https://github.com/guodongxiaren/README)
 ## 计算机网络等
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
+* [计算机网络面试问题集锦](https://blog.csdn.net/justloveyou_/article/details/78303617)
 ## 数据结构与算法
 * [红黑树之原理和算法详细介绍](https://www.cnblogs.com/skywang12345/p/3245399.html)
 * [十大经典排序算法总结（JavaScript描述）](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
