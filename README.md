@@ -21,6 +21,7 @@
 ## 计算机网络等
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
 * [图解 HTTP：Web开发相关的一些核心基础概念](https://blog.csdn.net/justloveyou_/article/details/72803200)
+* [互联网协议入门(阮一峰)](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 * [TCP协议详解](https://www.jianshu.com/p/ef892323e68f)
 * [计算机网络面试问题集锦](https://blog.csdn.net/justloveyou_/article/details/78303617)
 ## 数据结构与算法
