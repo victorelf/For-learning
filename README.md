@@ -9,6 +9,7 @@
 ## HTML&CSS
 * [HTML5和CSS3新特性一览](https://www.cnblogs.com/star91/p/5659134.html)
 * [CSS常用布局之各种元素的水平垂直居中](https://www.w3cschool.cn/css_series/css_series-ty3124qb.html)
+* [Flex 布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 ## React&Webpack&Git等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
 * [React学习：状态(State) 和 属性(Props)](https://blog.csdn.net/b954960630/article/details/79822639)
@@ -21,7 +22,7 @@
 ## 计算机网络等
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
 * [图解 HTTP：Web开发相关的一些核心基础概念](https://blog.csdn.net/justloveyou_/article/details/72803200)
-* [互联网协议入门(阮一峰)](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+* [互联网协议入门 (阮一峰)](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 * [TCP协议详解](https://www.jianshu.com/p/ef892323e68f)
 * [计算机网络面试问题集锦](https://blog.csdn.net/justloveyou_/article/details/78303617)
 ## 数据结构与算法
