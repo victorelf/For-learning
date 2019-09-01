@@ -33,6 +33,7 @@
 * [javascript背包问题详解](https://segmentfault.com/a/1190000012829866)
 ## 其他
 * [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+* [网页性能管理详解](https://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48)
 * [FE-Interview](http://blog.poetries.top/FE-Interview-Questions/review/#%E4%B8%80%E3%80%81css)
 * [前端面试与进阶指南](https://www.cxymsg.com/)
