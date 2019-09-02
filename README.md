@@ -14,6 +14,7 @@
 ## React&Webpack&Git等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
 * [React学习：状态(State) 和 属性(Props)](https://blog.csdn.net/b954960630/article/details/79822639)
+* [【React深入】深入分析虚拟DOM的渲染原理和特性](https://juejin.im/post/5cb66fdaf265da0384128445)
 * [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
 * [git如何避免”warning: LF will be replaced by CRLF“提示？](https://www.zhihu.com/question/50862500)
 * [理解 Git 如何使用autocrlf、safecrlf、eol和.gitattributes处理line-ending](https://xiaozhuanlan.com/topic/4053786912)
