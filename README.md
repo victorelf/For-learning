@@ -6,6 +6,7 @@
 * [深度解析bind原理、使用场景及模拟实现](https://juejin.im/post/5c09e6f9e51d456c4c49f4c6)
 * [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.cnblogs.com/cangqinglang/p/8963557.html)
 * [JavaScript中文网](https://www.javascriptcn.com/)
+* [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 * [JavaScript instanceof 运算符深入剖析](https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/)
 ## HTML&CSS
 * [HTML5和CSS3新特性一览](https://www.cnblogs.com/star91/p/5659134.html)
