@@ -23,6 +23,7 @@
 * [理解 Git 如何使用autocrlf、safecrlf、eol和.gitattributes处理line-ending](https://xiaozhuanlan.com/topic/4053786912)
 * [Redux 入门教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 * [Sublime Text 3 全程详细图文原创教程](https://www.cnblogs.com/wind128/p/4409422.html)
+* [在 Sublime Text 直接运行 Javascript 调试控制台](https://www.jianshu.com/p/43b0726792f7)
 * [README文件语法解读](https://github.com/guodongxiaren/README)
 ## 计算机网络等
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
