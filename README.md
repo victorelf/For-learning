@@ -36,6 +36,7 @@
 * [红黑树之原理和算法详细介绍](https://www.cnblogs.com/skywang12345/p/3245399.html)
 * [十大经典排序算法总结（JavaScript描述）](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
 * [javascript背包问题详解](https://segmentfault.com/a/1190000012829866)
+* [用JavaScript实现的算法和数据结构](http://www.conardli.top/docs/)
 ## 其他
 * [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 * [网页性能管理详解](https://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
