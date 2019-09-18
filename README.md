@@ -48,3 +48,4 @@
 * [前端面试与进阶指南](https://www.cxymsg.com/)
 * [木易杨前端进阶系列博文](https://muyiy.vip/blog/1/1.1.html)
 * [React 的性能优化（一）当 PureComponent 遇上 ImmutableJS](https://segmentfault.com/a/1190000011408775#articleHeader3)
+* [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
