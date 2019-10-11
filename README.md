@@ -14,12 +14,14 @@
 * [CSS绘制三角形—border法](https://www.jianshu.com/p/9a463d50e441)
 * [CSS常用布局之各种元素的水平垂直居中](https://www.w3cschool.cn/css_series/css_series-ty3124qb.html)
 * [Flex 布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-## React&Webpack&Git等
+## Vue&React等
+* [Vue教程](https://cn.vuejs.org/v2/guide/)
 * [React学习：状态(State) 和 属性(Props)](https://blog.csdn.net/b954960630/article/details/79822639)
 * [深入浅出 React（四）：虚拟 DOM Diff 算法解析](https://www.infoq.cn/article/react-dom-diff)
 * [【React深入】深入分析虚拟DOM的渲染原理和特性](https://juejin.im/post/5cb66fdaf265da0384128445)
 * [React高阶组件(HOC)模型理论与实践](https://segmentfault.com/a/1190000008112017)
 * [Redux 入门教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+## Webpack&Git等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
 * [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
 * [git如何避免”warning: LF will be replaced by CRLF“提示？](https://www.zhihu.com/question/50862500)
