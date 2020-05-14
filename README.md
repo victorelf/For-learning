@@ -1,4 +1,4 @@
-# 谨以此记录部分学习有关资料
+# 前端进阶记
 ## JavaScript
 * [JavaScript 教程](https://wangdoc.com/javascript/)
 * [《ECMAScript 6 入门》](http://es6.ruanyifeng.com/)
