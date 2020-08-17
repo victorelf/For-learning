@@ -24,6 +24,7 @@
 ## Webpack&Git等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
 * [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
+* [git-stash用法小结](https://www.cnblogs.com/tocy/p/git-stash-reference.html)
 * [git如何避免”warning: LF will be replaced by CRLF“提示？](https://www.zhihu.com/question/50862500)
 * [理解 Git 如何使用autocrlf、safecrlf、eol和.gitattributes处理line-ending](https://xiaozhuanlan.com/topic/4053786912)
 * [Sublime Text 3 全程详细图文原创教程](https://www.cnblogs.com/wind128/p/4409422.html)
