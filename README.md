@@ -21,7 +21,7 @@
 * [【React深入】深入分析虚拟DOM的渲染原理和特性](https://juejin.im/post/5cb66fdaf265da0384128445)
 * [React高阶组件(HOC)模型理论与实践](https://segmentfault.com/a/1190000008112017)
 * [Redux 入门教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
-## Webpack&Git等
+## Git&Webpack等
 * [Webpack基本配置](https://www.yuque.com/fe9/basic/fnvdeu)
 * [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
 * [git-stash用法小结](https://www.cnblogs.com/tocy/p/git-stash-reference.html)
@@ -30,6 +30,7 @@
 * [Sublime Text 3 全程详细图文原创教程](https://www.cnblogs.com/wind128/p/4409422.html)
 * [在 Sublime Text 直接运行 Javascript 调试控制台](https://www.jianshu.com/p/43b0726792f7)
 * [README文件语法解读](https://github.com/guodongxiaren/README)
+* [Your branch is ahead of 'origin/master' by 3 commits](https://stackoverflow.com/questions/16288176/your-branch-is-ahead-of-origin-master-by-3-commits)
 ## 计算机网络等
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
 * [彻底弄懂HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
