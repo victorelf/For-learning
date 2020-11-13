@@ -31,6 +31,7 @@
 * [在 Sublime Text 直接运行 Javascript 调试控制台](https://www.jianshu.com/p/43b0726792f7)
 * [README文件语法解读](https://github.com/guodongxiaren/README)
 * [Your branch is ahead of 'origin/master' by 3 commits](https://stackoverflow.com/questions/16288176/your-branch-is-ahead-of-origin-master-by-3-commits)
+* [Git 分支管理与冲突解决](https://blog.csdn.net/xgf415/article/details/75213159)
 ## 计算机网络等
 * [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/computercode.html)
 * [彻底弄懂HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
